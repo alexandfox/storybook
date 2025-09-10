@@ -1,3 +1,8 @@
+## 10.0.0
+
+- CSF: Support `satisfies x as y` syntax - [#32169](https://github.com/storybookjs/storybook/pull/32169), thanks @diagramatics!
+- Modernize: Replace `fs-extra` with native APIs - [#32296](https://github.com/storybookjs/storybook/pull/32296), thanks @y-hsgw!
+
 ## 9.1.5
 
 - CSF: Support `satisfies x as y` syntax - [#32169](https://github.com/storybookjs/storybook/pull/32169), thanks @diagramatics!
